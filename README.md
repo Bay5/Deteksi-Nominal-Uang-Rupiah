@@ -1,1 +1,1 @@
-Deteksi nominal mata uang dengn metode K-Nearest Neighbors 
+Deteksi nominal mata uang rupiah dengan metode K-Nearest Neighbors 
